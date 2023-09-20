@@ -1,5 +1,4 @@
-# szl_odlot_2
-nienawdzie swojego zycoal wszy7uscu tylo narzekaja na menie i nie waracaja uwagu na mohe wmocje i to jak sie czuje maj de [presje i nie chce ab y to dlaje trwaoo n ie nedzioe ,mi soe zuc
+# lotnisko 
 
 
 using MySql.Data.MySqlClient;
